@@ -1,0 +1,60 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "title": "Senior Manager",
+      "boss": null,
+      "url": "https://i.picsum.photos/id/237/500/400.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "title": "Head of Shit",
+      "boss": null,
+      "url": "https://i.picsum.photos/id/237/500/400.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Donny Joe",
+      "title": "Senior Ass-Licker",
+      "boss": null,
+      "url": "https://i.picsum.photos/id/237/500/400.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Slave 1",
+      "title": "Slave",
+      "boss": 1,
+      "url": "https://i.picsum.photos/id/237/500/400.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Slave 2",
+      "title": "Slave",
+      "boss": 1,
+      "url": "https://i.picsum.photos/id/237/500/400.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Slave 3",
+      "title": "Slave",
+      "boss": 1,
+      "url": "https://i.picsum.photos/id/237/500/400.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Slave 4",
+      "title": "Slave",
+      "boss": 1,
+      "url": "https://i.picsum.photos/id/237/500/400.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Slave 5",
+      "title": "Slave",
+      "boss": 1,
+      "url": "https://i.picsum.photos/id/237/500/400.jpg"
+    }
+  ]
+}
